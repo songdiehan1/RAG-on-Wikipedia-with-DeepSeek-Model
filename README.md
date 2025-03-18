@@ -36,7 +36,7 @@ Lincoln began his political career in 1832, at age 23, with an unsuccessful camp
 [Source：datasets/rag_mini_wikipedia.txt，type：normal]
 to the areas where it already existed, and placed on the 'course of ultimate extinction... .'"  Lincoln won the Republican Party nomination in 1860 and was elected president later that year. During his term, he helped preserve the United States by leading the defeat of the secessionist Confederate States of America in the American Civil War. He introduced measures that resulted in the abolition of slavery, issuing his Emancipation Proclamation in 1863 and promoting the passage of the Thirteenth Amendment
 
-[Source：datasets/rag_mini_wikipedia.txt，类型：normal]
+[Source：datasets/rag_mini_wikipedia.txt，type：normal]
 Lincoln had been practicing with the broad sword. Two years later, Lincoln entered law practice with William Herndon, a fellow Whig. In 1854, both men joined the fledgling Republican Party. Following Lincoln's death, Herndon began collecting stories about Lincoln and published them in Herndon's Lincoln. The first photograph ever taken of Mary Lincoln, a daguerreotype by Shepherd in 1846. On November 4 1842 Lincoln married Mary Todd, daughter of a prominent slave-owning family from Kentucky. The couple had
 
         Think through the steps and answer:When did Lincoln begin his political career?
