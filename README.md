@@ -30,10 +30,10 @@ print(f"Answer: {answer}")
 question：When did Lincoln begin his political career?
 answer：
 You are a professional assistant, please strictly follow the context of the source:
-        [Source：datasets/rag_mini_wikipedia.txt，类型：normal]
+        [Source：datasets/rag_mini_wikipedia.txt，type：normal]
 Lincoln began his political career in 1832, at age 23, with an unsuccessful campaign for the Illinois General Assembly, as a member of the Whig Party. He ran eighth in a field of 13 candidates.
 
-[Source：datasets/rag_mini_wikipedia.txt，类型：normal]
+[Source：datasets/rag_mini_wikipedia.txt，type：normal]
 to the areas where it already existed, and placed on the 'course of ultimate extinction... .'"  Lincoln won the Republican Party nomination in 1860 and was elected president later that year. During his term, he helped preserve the United States by leading the defeat of the secessionist Confederate States of America in the American Civil War. He introduced measures that resulted in the abolition of slavery, issuing his Emancipation Proclamation in 1863 and promoting the passage of the Thirteenth Amendment
 
 [Source：datasets/rag_mini_wikipedia.txt，类型：normal]
