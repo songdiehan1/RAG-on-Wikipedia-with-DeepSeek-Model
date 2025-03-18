@@ -30,7 +30,7 @@ print(f"Answer: {answer}")
 question：When did Lincoln begin his political career?
 answer：
 You are a professional assistant, please strictly follow the context of the source:
-        [Source：datasets/rag_mini_wikipedia.txt，type：normal]
+[Source：datasets/rag_mini_wikipedia.txt，type：normal]
 Lincoln began his political career in 1832, at age 23, with an unsuccessful campaign for the Illinois General Assembly, as a member of the Whig Party. He ran eighth in a field of 13 candidates.
 
 [Source：datasets/rag_mini_wikipedia.txt，type：normal]
@@ -39,8 +39,10 @@ to the areas where it already existed, and placed on the 'course of ultimate ext
 [Source：datasets/rag_mini_wikipedia.txt，type：normal]
 Lincoln had been practicing with the broad sword. Two years later, Lincoln entered law practice with William Herndon, a fellow Whig. In 1854, both men joined the fledgling Republican Party. Following Lincoln's death, Herndon began collecting stories about Lincoln and published them in Herndon's Lincoln. The first photograph ever taken of Mary Lincoln, a daguerreotype by Shepherd in 1846. On November 4 1842 Lincoln married Mary Todd, daughter of a prominent slave-owning family from Kentucky. The couple had
 
-        Think through the steps and answer:When did Lincoln begin his political career?
-        If context information is insufficient, specify the missing information. Finally, give a structured answer.</think>
+Think through the steps and answer:When did Lincoln begin his political career?
+If context information is insufficient, specify the missing information. Finally, give a structured answer.
+
+</think>
 Okay, so I need to figure out when Abraham Lincoln began his political career. I'll start by looking at the provided context from the source datasets. 
 
 The first source mentions that Lincoln began his political career in 1832 at the age of 23, running for the Illinois General Assembly as a member of the Whig Party, but he was unsuccessful. That seems pretty straightforward. It clearly states the year he started, so that should be the answer.
