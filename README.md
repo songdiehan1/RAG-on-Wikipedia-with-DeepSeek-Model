@@ -4,11 +4,15 @@
 This project implements a Retrieval-Augmented Generation (RAG) system based on the DeepSeek-R1-Distill-Qwen-14B model, specifically designed to answer questions using the Wikipedia dataset. 
 
 ## ⚙️ Technologies Used
-LangChain: A framework for building applications powered by language models.
-Chroma: A vector database for efficient document retrieval.
-BM25 Retriever: A classic retrieval model for document ranking.
-BGE-Embedding: Bi-directional Generative Embedding.
-BGE reranker: A powerful reranking algorithm that refines retrieved document.
+**LangChain:** A framework for building applications powered by language models.
+
+**Chroma:** A vector database for efficient document retrieval.
+
+**BM25 Retriever:** A classic retrieval model for document ranking.
+
+**BGE-Embedding:** Bi-directional Generative Embedding.
+
+**BGE reranker:** A powerful reranking algorithm that refines retrieved document.
 
 ## 🛠️ Installation
 To get started, install the required dependencies using pip:
